@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="title_activity_move_with_data">MoveWithDataActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="move_with_object_activity">Move with object activity</string>
+    <string name="move_with_object">move with object</string>
+    <string name="choose">choose</string>
+    <string name="_200">200</string>
+    <string name="_150">150</string>
+    <string name="_100">100</string>
+    <string name="_50">50</string>
+    <string name="choose_number">Choose Number</string>
+    <string name="move_with_result">Move With Result</string>
+    <string name="result_from_activity">result from activity</string>
+</resources>
